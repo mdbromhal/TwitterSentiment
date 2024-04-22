@@ -11,3 +11,6 @@ ABSTRACT: Using Sentiment Analysis to Determine Airline Sentiment on Twitter
     - 2 = negative
 
 Ex) tweet = 'This airline is so fun' --> Predicted class:  [1] (correct!)
+
+**References**:
+Géron, A. (2023). Hands-on machine learning with scikit-learn, Keras, and tensorflow: Concepts, tools, and techniques to build Intelligent Systems. O’Reilly Media. 
