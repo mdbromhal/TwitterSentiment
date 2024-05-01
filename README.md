@@ -1,6 +1,8 @@
 # TwitterSentiment
 ABSTRACT: Using Sentiment Analysis to Determine Airline Sentiment on Twitter
 
+Source: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+
 - Cleaning the data
 - Tokenizing the words
 - Simple RNN
